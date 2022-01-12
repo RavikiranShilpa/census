@@ -1,5 +1,4 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
+
 import os
 import time
 import unittest
@@ -40,7 +39,7 @@ CLIENTS = (
         'state_legislative_district_lower',
     ))
 )
-
+# us any tests= data
 TEST_DATA = {
     'state_fips': '24',
     'county_fips': '031',
